@@ -1,4 +1,4 @@
-# Keka Helper
+# Keka Auto
 
 Open-source Android helper for Keka clock-in and clock-out automation.
 
@@ -27,7 +27,7 @@ After generating the Gradle wrapper, build with:
 1. Install the APK built from this project.
 2. Open the app and set your clock-in / clock-out times.
 3. Grant notification permission if prompted.
-4. Enable the `Keka Helper` AccessibilityService in Android settings.
+4. Enable the `Keka Auto` AccessibilityService in Android settings.
 5. Keep the official Keka app installed normally.
 
 ## Notes

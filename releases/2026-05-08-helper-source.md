@@ -1,6 +1,6 @@
 # Keka Helper Source Release
 
-- Branch: `release/helper-open-source`
+- Branch: `main`
 - Scope: helper app source only
 - Included: Android project, launcher icon, MIT license, build wrapper
 - Excluded: any modded Keka APK
