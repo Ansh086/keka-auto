@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Keka Helper</string>
+    <string name="clock_in_label">Clock in time</string>
+    <string name="clock_out_label">Clock out time</string>
+    <string name="save_and_schedule">Save and schedule</string>
+    <string name="open_accessibility">Open accessibility settings</string>
+    <string name="request_notifications">Request notification access</string>
+    <string name="request_alarm">Open alarm permission</string>
+    <string name="immediate_clock_in">Immediate clock in</string>
+    <string name="immediate_clock_out">Immediate clock out</string>
+    <string name="status_ready">Ready</string>
+</resources>
