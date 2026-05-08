@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">Keka Helper</string>
+    <string name="app_name">Keka Auto</string>
     <string name="clock_in_label">Clock in time</string>
     <string name="clock_out_label">Clock out time</string>
     <string name="save_and_schedule">Save and schedule</string>
