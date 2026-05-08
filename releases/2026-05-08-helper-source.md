@@ -1,4 +1,4 @@
-# Keka Helper Source Release
+# Keka Auto Source Release
 
 - Branch: `main`
 - Scope: helper app source only
